@@ -4,3 +4,4 @@
 # Only whitelist the .gitignore file in this directory
 !./.gitignore
 
+!./.profile
